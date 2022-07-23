@@ -66,7 +66,7 @@ There are basically 8 steps in achieving the goal
 
 
 ### Team Members 😄
-[Bhupathi Shwejan Raj](https://github.com/shwejanraj) | [Bolisetty Sujith](https://bolisettysujith.rocks) | [Janagama Vamshi Krishna](https://github.com/vamshijanagama) | [Suravarapu Ankith](https://github.com/vamshijanagama) | [Raja Pavan Karthik](https://github.com/vamshijanagama) |
+[Bhupathi Shwejan Raj](https://github.com/shwejanraj) | [Bolisetty Sujith](https://bolisettysujith.rocks) | [Janagama Vamshi Krishna](https://github.com/vamshijanagama) | [Suravarapu Ankith](https://github.com/Ankith-Suravarapu) | [Raja Pavan Karthik](https://github.com/RPKTHOR) |
 
 
 **<p align="center"># Happy Coding #</p>**
